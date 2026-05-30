@@ -27,3 +27,24 @@ src/
 
 ## 🛠️ Tech Stack
 Python, LightGBM, Scikit-learn, SHAP, TF-IDF, Docker
+
+## 📈 Key Visualizations
+
+### Missing Data & Price Distribution
+![Missing Data](reports/figures/01_missing_data.png)
+![Price Distribution](reports/figures/02_price_distribution.png)
+
+### Categories & Brands
+![Categories](reports/figures/04_categories.png)
+![Brands](reports/figures/06_brands.png)
+
+### Model Results
+![Model Results](reports/figures/10_model_results.png)
+![Category Performance](reports/figures/11_category_performance.png)
+
+### SHAP Analysis
+![SHAP Importance](reports/figures/13_shap_importance.png)
+![SHAP Beeswarm](reports/figures/14_shap_beeswarm.png)
+
+## 🎯 Presentation
+[📊 View Full Presentation](reports/presentation.html)
