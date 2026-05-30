@@ -1,0 +1,9 @@
+data/
+notebooks/
+.git/
+__pycache__/
+*.pyc
+*.ipynb
+*.7z
+*.zip
+.streamlit/
