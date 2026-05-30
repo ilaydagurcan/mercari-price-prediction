@@ -47,4 +47,5 @@ Python, LightGBM, Scikit-learn, SHAP, TF-IDF, Docker
 ![SHAP Beeswarm](reports/figures/14_shap_beeswarm.png)
 
 ## 🎯 Presentation
+> The presentation file is available at `reports/presentation.html`. Download and open it in your browser.
 [📊 View Full Presentation](reports/presentation.html)
